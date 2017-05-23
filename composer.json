@@ -1,0 +1,13 @@
+{
+    "name": "quantity-digital/acf-show-attachments",
+    "description": "Show Attachments field simply shows attached files and media in a single field in the backend with the ability do download the files.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolaj Kirkegaard Nielsen",
+            "email": "nn@quantitydigital.com"
+        }
+    ],
+    "require": {}
+}
